@@ -1,0 +1,8 @@
+# this is your actual portfolio data, don't want it in the repo
+portfolio.json
+
+# python junk
+__pycache__/
+*.pyc
+venv/
+.env
